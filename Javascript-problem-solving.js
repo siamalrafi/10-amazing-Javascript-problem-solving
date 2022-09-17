@@ -92,7 +92,7 @@ const total = array.reduce(function(a,b){
 console.log(total); */
 
 
-// (10) Reverse a string:
+// (10) Reverse a string by using funciton:
 
 /* const sentance = 'repoleved bew a eb lliw I';
 function reverse(string) {
